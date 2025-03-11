@@ -1,5 +1,5 @@
 # Project Name
-This project is "Examining the History of Lego Sets" project on Datacamp. 
+This is the "Examining the History of Lego Sets" project on Datacamp. 
 
 ## Description
 The purpose of this project is to analyze the lego_sets.csv and parent_themes.csv datasets to answer the following questions:
