@@ -1,9 +1,7 @@
 # Project Name
-This project is ________. (Describe the main goals of the project. Limit to 1-2 sentences)
+This project is "Examining the History of Lego Sets" project on Datacamp. 
 
 ## Description
-Optional section to provide a more detailed overview of the project.
-
-## Getting Started
-Optional section to summarize important steps and how to use the project & apps in the project
-
+The purpose of this project is to analyze the lego_sets.csv and parent_themes.csv datasets to answer the following questions:
+1. What percentage of all licensed sets ever released were Star Wars themed?
+2. In which year was the highest number of Star Wars sets released?
